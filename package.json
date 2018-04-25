@@ -12,7 +12,9 @@
     "babel-register": "^6.26.0",
     "blessed": "https://github.com/jabyrd3/blessed",
     "react": "^16.2.0",
-    "react-blessed": "^0.2.1"
+    "react-blessed": "^0.2.1",
+    "sanitize-html": "^1.18.2",
+    "turndown": "^4.0.1"
   },
   "devDependencies": {
     "babel-plugin-transform-react-jsx": "^6.24.1"
